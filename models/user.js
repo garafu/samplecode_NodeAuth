@@ -1,7 +1,3 @@
-// var MongoClient = require("mongodb").MongoClient;
-// var User;
-// module.exports = User;
-
 var mongoose = require("mongoose");
 
 var schema = mongoose.Schema({
